@@ -1,0 +1,15 @@
+.Dictionary{
+    padding: 20px;
+            border-radius: 10px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+       
+}
+.body{
+           height: 100vh;
+            margin: 0;
+            display:flex;
+            place-items: center;
+            align-items: center;
+            background-color: #f0f0f0;
+}
